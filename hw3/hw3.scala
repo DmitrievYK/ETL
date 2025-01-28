@@ -1,7 +1,4 @@
 /*
-Задание 3 с семинара
-Объединить время, статус, группу в один столбец
-
 cd C:\1\ETL\hw3\hw3.scala
 chcp 65001 && spark-shell -i C:\1\ETL\hw3\hw3.scala --conf "spark.driver.extraJavaOptions=-Dfile.encoding=utf-8"
 */
