@@ -2,7 +2,7 @@
 Установка и запуск airflow
 
 Установка airflow на ubuntu под windows
-![уст](Установка airflow.jpg)
+![уст](Установка_airflow.jpg)
 
 Запуск airflow 
 ![зап](Запуск airflow.jpg)
