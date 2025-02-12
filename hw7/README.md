@@ -13,7 +13,7 @@
 
 Я выбрал бесплатный API -> https://open-meteo.com/en/docs#latitude=55.7522&longitude=37.6156&current=&minutely_15=&hourly=temperature_2m&daily=&models=
 
-И на его основе снимал получал погодные значения.
+И на его основе получал погодные значения.
 
 Дерево ветвления
 ![tree](Tree.jpg)
