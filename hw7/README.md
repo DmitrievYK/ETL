@@ -7,7 +7,7 @@
 
 Оператор ветвления должен выводить в консоль полученную от АРI температуру.
 
-Так как ОрепWeatherApi (https://openweathermap.org/api) платный, а второй сайт с 6 семинара https://goweather.herokuapp.com/ не работает у меня.
+Так как ОрепWeatherApi (https://openweathermap.org/api) платный, а второй сайт с 6-ого семинара https://goweather.herokuapp.com/ у меня не работает.
 
 Я выбрал бесплатный API -> https://open-meteo.com/en/docs#latitude=55.7522&longitude=37.6156&current=&minutely_15=&hourly=temperature_2m&daily=&models=
 
