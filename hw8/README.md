@@ -21,6 +21,8 @@
 5. export AIRFLOW_HOME=/home/airflow && airflow db init
 6. airflow scheduler & airflow webserver -p 8080
 
+Лог запуска airflow
+![start](start.jpg)
 
 Дерево процесса
 
